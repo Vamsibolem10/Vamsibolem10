@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bolem Naga Mohana Vamsidhar
+# 👋 Hi, I'm Naga Mohana Vamsidhar
 
 ## 💻 Full-Stack Developer | 🤖 AI Enthusiast | 🔐 Blockchain Explorer
 
